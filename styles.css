@@ -1,0 +1,17 @@
+body {
+    background-color: whitesmoke;
+}
+h1 {
+    text-align: center;
+}
+
+.input-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+button {
+    margin: 10px;
+}
